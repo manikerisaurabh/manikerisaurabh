@@ -43,3 +43,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manikerisaurabh&show_icons=true&locale=en" alt="manikerisaurabh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manikerisaurabh&" alt="manikerisaurabh" /></p>
+<p> <img src="https://github.com/manikerisaurabh/manikerisaurabh/blob/main/snake.yml" /> </p>
