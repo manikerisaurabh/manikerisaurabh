@@ -25,14 +25,14 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Angular, DotNet, SQL**
+- 🔭 I’m currently working on **Next Js, Microservices, Docker**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **Fullstack**
 
 
-- 💬 Ask me about **Angular, DotNet, Java, SQL**
+- 💬 Ask me about **Node Js, Express Js, Java, React Js, MongoDb**
 
 - 📫 Feel free to reach me out **manikerisaurabh@gmail.com**
 <!--Intro end-->
